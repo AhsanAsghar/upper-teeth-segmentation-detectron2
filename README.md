@@ -10,7 +10,6 @@ Train the model.
 
 Test the model.
 
-for access to thee trained, you can share your email with me.
 
 Predicted Result:
 ![01UPrediction](https://github.com/user-attachments/assets/3e613900-f9aa-4c61-b78c-3f08b6a50dd4)
